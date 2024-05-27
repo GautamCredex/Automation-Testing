@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".dripicons-view-apps.noti-icon\"}\n  (Session info: chrome=125.0.6422.113)",
+  "stacktrace": "\tGetHandleVerifier [0x00007FF68A711F42+60322]\n\t(No symbol) [0x00007FF68A68CEB9]\n\t(No symbol) [0x00007FF68A547EBA]\n\t(No symbol) [0x00007FF68A597676]\n\t(No symbol) [0x00007FF68A59773C]\n\t(No symbol) [0x00007FF68A5DE967]\n\t(No symbol) [0x00007FF68A5BC25F]\n\t(No symbol) [0x00007FF68A5DBC80]\n\t(No symbol) [0x00007FF68A5BBFC3]\n\t(No symbol) [0x00007FF68A589617]\n\t(No symbol) [0x00007FF68A58A211]\n\tGetHandleVerifier [0x00007FF68AA2948D+3301613]\n\tGetHandleVerifier [0x00007FF68AA736B3+3605267]\n\tGetHandleVerifier [0x00007FF68AA69430+3563664]\n\tGetHandleVerifier [0x00007FF68A7C4316+790390]\n\t(No symbol) [0x00007FF68A6974FF]\n\t(No symbol) [0x00007FF68A6933F4]\n\t(No symbol) [0x00007FF68A693582]\n\t(No symbol) [0x00007FF68A682F8F]\n\tBaseThreadInitThunk [0x00007FFD270B7344+20]\n\tRtlUserThreadStart [0x00007FFD27C826B1+33]\n"
+}

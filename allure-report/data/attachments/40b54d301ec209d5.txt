@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//div[@data-notify='container' and contains(@class, 'alert-success') and contains(., 'Draft saved.')]"
+}

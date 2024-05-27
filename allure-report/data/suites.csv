@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu May 23 12:03:37 IST 2024","Thu May 23 12:03:42 IST 2024","5091","","My Login application","","","","should login with valid credentials",""
+"broken","Fri May 24 12:22:38 IST 2024","Fri May 24 12:22:53 IST 2024","15212","","Feature: Leave Request Save in Draft","","","","should log in successfully",""
+"passed","Thu May 23 11:19:03 IST 2024","Thu May 23 11:19:06 IST 2024","2849","","feature leave Request Save in Draft","","","","""before each"" hook for feature leave Request Save in Draft",""
+"passed","Fri May 24 18:25:44 IST 2024","Fri May 24 18:25:56 IST 2024","11679","","Feature: Leave Request Save in Draft","","","","should log in successfully",""
+"passed","Thu May 23 11:19:03 IST 2024","Thu May 23 11:19:13 IST 2024","10466","","feature leave Request Save in Draft","","","","login should be valid ",""
